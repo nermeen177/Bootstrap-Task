@@ -1,0 +1,120 @@
+body
+{
+	margin: 0px;
+	padding: 0px;
+}
+.navbar-brand
+{
+	color: rgb(59, 185, 255);
+}
+.div2
+{
+	background-image: url(4.jpg);
+	height: 500px;
+	width: 100%
+}
+button
+{
+	background-color: #357EC7;
+	border-radius: 10px;
+	height: 40px;
+	width: 110px;
+	color: white;
+	padding: 6px;
+}
+
+h1
+{
+	color: white;
+}
+.p1
+{   color: white;
+	font-size: 20px
+}
+p
+{
+   font-size: 25px
+}
+.div3
+{
+	position: absolute;
+	top:120px;
+	left: 20px
+}
+img
+{
+	display: inline;
+}
+.b2
+{
+	background-color: #357EC7;
+	border-radius: 10px;
+	height: 40px;
+	width: 110px;
+	color: white;
+	padding: 6px;
+	display: inline;
+	float: right;
+	position: absolute;
+	right: 60px
+
+}
+.pp
+{
+	display: inline;
+	padding: 60px
+}
+.grad
+{
+     height: 350px;
+    background: linear-gradient(0deg, rgba(14,102,230,1) 40%, rgba(255,255,255,1) 60%);
+    margin-bottom: 30px;
+}
+h4
+{
+	color: white
+}
+.b3
+{
+	;
+	border-radius: 15px;
+	height: 70px;
+	width: 200px;
+	margin: 70px;	
+	padding: 6px;
+	background: white;
+	color: black;
+	border: solid;
+	font-weight: bold
+}
+.parent
+{
+	background-color: #a0cfec;
+	height: 500px;
+	width: 100%;
+
+
+}
+.child1
+{
+	border-radius: 15px;
+	background-color: white;
+	height: 400px;
+	width: 650px;
+	position: relative;
+	left: 370px;
+	top: 70px
+}
+.child2
+{
+	border-radius: 15px;
+	height: 370px;
+	border: solid;
+	width: 600px;
+	border-color: #A0CFEC;
+	position: relative;
+	left: 22px;
+	top: 14px;
+	padding: 25px
+}
+
